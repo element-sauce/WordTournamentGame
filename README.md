@@ -13,3 +13,6 @@ There are three modes: easy, intermediate, and hard.
 
 Annotations have been made to each Java class explaining its use and design.
 
+The demo video initially shows a test printing to console to demonstrate the possible words that a given board contains,
+as it must be a requirement for a board to contain several words determined by the difficulty level. A short demo of finding a word ensues.
+
